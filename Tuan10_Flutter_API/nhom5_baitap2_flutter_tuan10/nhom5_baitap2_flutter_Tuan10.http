@@ -1,0 +1,6 @@
+@nhom5_baitap2_flutter_Tuan10_HostAddress = http://localhost:5129
+
+GET {{nhom5_baitap2_flutter_Tuan10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

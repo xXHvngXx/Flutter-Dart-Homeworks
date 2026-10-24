@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nhom5_baitap2_flutter_Tuan10", "nhom5_baitap2_flutter_Tuan10.csproj", "{2178C964-9B8C-4A19-948A-A28CBE5E3F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2178C964-9B8C-4A19-948A-A28CBE5E3F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2178C964-9B8C-4A19-948A-A28CBE5E3F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2178C964-9B8C-4A19-948A-A28CBE5E3F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2178C964-9B8C-4A19-948A-A28CBE5E3F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F293CA0F-B681-4771-B1F6-5ABC7FD8CFF0}
+	EndGlobalSection
+EndGlobal

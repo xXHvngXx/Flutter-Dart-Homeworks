@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nhom5_baitap2_flutter_Tuan10.props" />
+</Project>
