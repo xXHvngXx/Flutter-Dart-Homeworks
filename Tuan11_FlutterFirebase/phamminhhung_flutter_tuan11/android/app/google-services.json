@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143222809972",
+    "project_id": "flutterprojtuan11",
+    "storage_bucket": "flutterprojtuan11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143222809972:android:220c04d774e328d8dd7821",
+        "android_client_info": {
+          "package_name": "com.example.phamminhhung_flutter_tuan11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4H19KdiO6ayDyM_q9h27hQ3ItamKa-J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
